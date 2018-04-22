@@ -1,0 +1,28 @@
+Concurrency Level:      100
+Time taken for tests:   437.763 seconds
+Complete requests:      100000
+Failed requests:        0
+Total transferred:      17700000 bytes
+HTML transferred:       2200000 bytes
+Requests per second:    228.43 [#/sec] (mean)
+Time per request:       437.763 [ms] (mean)
+Time per request:       4.378 [ms] (mean, across all concurrent requests)
+Transfer rate:          39.49 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.6      0      24
+Processing:    12  437  61.6    428     957
+Waiting:       10  436  61.4    427     956
+Total:         28  438  61.5    428     957
+
+Percentage of the requests served within a certain time (ms)
+  50%    428
+  66%    438
+  75%    444
+  80%    449
+  90%    467
+  95%    510
+  98%    676
+  99%    769
+ 100%    957 (longest request)

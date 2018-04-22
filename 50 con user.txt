@@ -1,0 +1,10 @@
+Concurrency Level:      50
+Time taken for tests:   29.663 seconds
+Complete requests:      10000
+Failed requests:        08
+Total transferred:      1690000 bytes
+HTML transferred:       130000 bytes
+Requests per second:    337.12 [#/sec] (mean)
+Time per request:       148.316 [ms] (mean)
+Time per request:       2.966 [ms] (mean, across all concurrent requests)
+Transfer rate:          55.64 [Kbytes/sec] received
